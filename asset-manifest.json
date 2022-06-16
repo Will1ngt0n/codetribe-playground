@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Will1ngt0n/codetribe-playground/static/css/main.f094c8c8.css",
+    "main.js": "/Will1ngt0n/codetribe-playground/static/js/main.8a1e4018.js",
+    "static/js/787.c4271f98.chunk.js": "/Will1ngt0n/codetribe-playground/static/js/787.c4271f98.chunk.js",
+    "index.html": "/Will1ngt0n/codetribe-playground/index.html",
+    "main.f094c8c8.css.map": "/Will1ngt0n/codetribe-playground/static/css/main.f094c8c8.css.map",
+    "main.8a1e4018.js.map": "/Will1ngt0n/codetribe-playground/static/js/main.8a1e4018.js.map",
+    "787.c4271f98.chunk.js.map": "/Will1ngt0n/codetribe-playground/static/js/787.c4271f98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f094c8c8.css",
+    "static/js/main.8a1e4018.js"
+  ]
+}
