@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Will1ngt0n/codetribe-playground/static/css/main.f094c8c8.css",
-    "main.js": "/Will1ngt0n/codetribe-playground/static/js/main.8a1e4018.js",
-    "static/js/787.c4271f98.chunk.js": "/Will1ngt0n/codetribe-playground/static/js/787.c4271f98.chunk.js",
-    "index.html": "/Will1ngt0n/codetribe-playground/index.html",
-    "main.f094c8c8.css.map": "/Will1ngt0n/codetribe-playground/static/css/main.f094c8c8.css.map",
-    "main.8a1e4018.js.map": "/Will1ngt0n/codetribe-playground/static/js/main.8a1e4018.js.map",
-    "787.c4271f98.chunk.js.map": "/Will1ngt0n/codetribe-playground/static/js/787.c4271f98.chunk.js.map"
+    "main.css": "/codetribe-playground/static/css/main.f094c8c8.css",
+    "main.js": "/codetribe-playground/static/js/main.ebd9ac49.js",
+    "static/js/787.c4271f98.chunk.js": "/codetribe-playground/static/js/787.c4271f98.chunk.js",
+    "index.html": "/codetribe-playground/index.html",
+    "main.f094c8c8.css.map": "/codetribe-playground/static/css/main.f094c8c8.css.map",
+    "main.ebd9ac49.js.map": "/codetribe-playground/static/js/main.ebd9ac49.js.map",
+    "787.c4271f98.chunk.js.map": "/codetribe-playground/static/js/787.c4271f98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f094c8c8.css",
-    "static/js/main.8a1e4018.js"
+    "static/js/main.ebd9ac49.js"
   ]
 }
